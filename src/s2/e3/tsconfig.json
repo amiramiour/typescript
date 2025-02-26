@@ -1,7 +1,7 @@
 {
     "extends": "../../../tsconfig.base.json",
     "compilerOptions": {
-      "outDir": "../../../dist/s1/e1",  
+      "outDir": "../../../dist/s2/e3",  
       "rootDir": "./",                 
       "noEmitOnError": true
     },

@@ -1,2 +1,16 @@
+# Ignorer les modules Node.js
 node_modules/
-dist/
+
+
+# Ignorer les fichiers log
+*.log
+
+# Ignorer les fichiers de configuration IDE
+.idea/
+.vscode/
+
+
+git rm -r --cached node_modules
+git rm -r --cached dist
+git commit -m "Supprimer node_modules et dist du suivi Git"
+git push
