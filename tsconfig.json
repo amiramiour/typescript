@@ -1,11 +1,9 @@
 {
     "files": [],
     "references": [
-      { "path": "./src/s4/e1/tsconfig.json" },
-      { "path": "./src/s4/e2/tsconfig.json" },
-      { "path": "./src/s4/e3/tsconfig.json" },
-
-
+      { "path": "./src/s5/e1/tsconfig.json" },
+      { "path": "./src/s5/e2/tsconfig.json" },
+      { "path": "./src/s5/e3/tsconfig.json" },
 
     ]
   }
