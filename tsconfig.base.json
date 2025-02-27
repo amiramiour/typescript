@@ -1,10 +1,10 @@
 {
-    "compilerOptions": {
+  "compilerOptions": {
       "target": "ES6",
-      "module": "CommonJS",
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
       "strict": true,
       "noEmitOnError": true,
       "declaration": true
-    }
   }
-  
+}
